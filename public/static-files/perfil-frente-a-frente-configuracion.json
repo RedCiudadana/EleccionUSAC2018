@@ -2,11 +2,21 @@
   {
     "field": "experienciaProfesional",
     "label": "",
-    "section": "Experiencia profesional"
+    "section": "Experiencia Profesional"
   },
   {
-    "field": "experienciaEnDH",
+    "field": "experienciaAcademica",
     "label": "",
-    "section": "Experiencia en Derechos Humanos"
+    "section": "Experiencia Académica"
+  },
+  {
+    "field": "notaAreaEvaluada3",
+    "label": "",
+    "section": "Proyección Humana e Idoneidad"
+  },
+  {
+    "field": "notaAreaEvaluada4Texto",
+    "label": "",
+    "section": "Cualidades Éticas"
   }
 ]

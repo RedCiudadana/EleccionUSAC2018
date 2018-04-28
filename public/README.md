@@ -1,4 +1,4 @@
-# MiGuatemala
+# Elección USAC 2018
 
-MiGuatemala es una aplicación destinada fomentar la transparencia en materia de funcionarios
-e instituciones públicas.
+Elección USAC 2018 es una aplicación destinada fomentar la transparencia en materia de la
+elección al cargo de Decano de la Universidad de San Carlos de Guatemala.

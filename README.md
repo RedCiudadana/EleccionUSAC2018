@@ -1,3 +1,3 @@
-# MiGuatemala
+# ElecciónUSAC2018
 
-MiGuatemala es un app/framework construido en [Ember](http://emberjs.com).
+ElecciónUSAC2018 es un app desarrollada sobre [MiGuatemala](https://github.com/RedCiudadana/Miguatemala).
