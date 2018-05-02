@@ -1,0 +1,10 @@
+[
+  {
+    "field": "profesion",
+    "label": "Profesión"
+  },
+  {
+    "field": "educacion",
+    "label": "Educación"
+  }
+]
