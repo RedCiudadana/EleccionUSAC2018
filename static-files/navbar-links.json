@@ -4,14 +4,6 @@
     "title": "Candidatos"
   },
   {
-    "route": "tabla-gradacion",
-    "title": "Tabla de gradación"
-  },
-  {
-    "route": "comision",
-    "title": "Comisión de Postulación"
-  },
-  {
     "route": "metodologia",
     "title": "Metodología"
   }

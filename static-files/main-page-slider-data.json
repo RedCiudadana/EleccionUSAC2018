@@ -1,44 +1,23 @@
 [
   {
-    "caption": "Edgar Estuardo Melchor Solorzano",
+    "caption": "Carlos Rene Sierra Romero",
     "route": "perfil",
-    "id": "candidato-5",
+    "id": "candidato-1",
     "link": "",
-    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Fotos-EleccionMP/master/slider/edgar.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Datos-Eleccion-USAC-Rector/gh-pages/candidatos/Carlos%20Sierra.jpg"
   },
   {
-    "caption": "Gladys Verónica Ponce Mejicanos",
+    "caption": "Hada Marieta Alvarado Beteta",
     "route": "perfil",
-    "id": "candidato-8",
+    "id": "candidato-2",
     "link": "",
-    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Fotos-EleccionMP/master/slider/gladys.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Datos-Eleccion-USAC-Rector/gh-pages/candidatos/Hada%20Alvarado.jpg"
   },
   {
-    "caption": "María Consuelo Porras Argueta",
+    "caption": "Murphy Olympo Paiz Recinos",
     "route": "perfil",
-    "id": "candidato-21",
+    "id": "candidato-3",
     "link": "",
-    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Fotos-EleccionMP/master/slider/maria.jpg"
-  },
-  {
-    "caption": "Miguel Ángel Gálvez Aguilar",
-    "route": "perfil",
-    "id": "candidato-28",
-    "link": "",
-    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Fotos-EleccionMP/master/slider/miguel.jpg"
-  },
-  {
-    "caption": "Brenda Dery Muñoz Sánchez de Molina",
-    "route": "perfil",
-    "id": "candidato-32",
-    "link": "",
-    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Fotos-EleccionMP/master/slider/brenda.jpg"
-  },
-  {
-    "caption": "Patricia Elizabet Gámez Barrera",
-    "route": "perfil",
-    "id": "candidato-39",
-    "link": "",
-    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Fotos-EleccionMP/master/slider/patricia.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Datos-Eleccion-USAC-Rector/gh-pages/candidatos/Murphy%20Paiz.jpg"
   }
 ]
