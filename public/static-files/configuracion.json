@@ -1,31 +1,31 @@
 [
   {
     "key": "logoUrl",
-    "value": "",
+    "value": "https://raw.githubusercontent.com/RedCiudadana/Datos-Eleccion-USAC-Rector/gh-pages/logo/logo.png",
     "tags": "",
     "observaciones": ""
   },
   {
     "key": "logoTitle",
-    "value": "Elección USAC 2018",
+    "value": "Elección Rector USAC 2018",
     "tags": "",
     "observaciones": ""
   },
   {
     "key": "twitterShareLink",
-    "value": "Conoce todo sobre la elección del Decano de la Universidad de San Carlos de Guatemala",
+    "value": "Conoce todo sobre la elección del Rector de la Universidad de San Carlos de Guatemala",
     "tags": "",
     "observaciones": ""
   },
   {
     "key": "facebookShareLink",
-    "value": "//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Feleccionmp.org",
+    "value": "//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fusac.redciudadana.org",
     "tags": "",
     "observaciones": ""
   },
   {
     "key": "siteMainTitle",
-    "value": "<div class=\"row text-center\" style=\"padding: 30px 5px;\">\n  <h1 style=\"font-weight: 600; font-size: 38px;\">Conoce todo sobre la elección del Decano de la Universidad de San Carlos de Guatemala</h1>\n</div>",
+    "value": "<div class=\"row text-center\" style=\"padding: 30px 5px;\">\n  <h1 style=\"font-weight: 600; font-size: 38px;\">Conoce todo sobre la elección del Rector de la Universidad de San Carlos de Guatemala</h1>\n</div>",
     "tags": "",
     "observaciones": "Permite HTML"
   },
@@ -85,31 +85,31 @@
   },
   {
     "key": "useFrontTableVisualization",
-    "value": "",
-    "tags": "",
-    "observaciones": ""
-  },
-  {
-    "key": "htmlTitle",
-    "value": "Elección MP - Red Ciudadana",
-    "tags": "",
-    "observaciones": ""
-  },
-  {
-    "key": "helloBarUrl",
-    "value": "https://my.hellobar.com/42ef5e28f5774ba916a74be32a95ef825a6470c2.js",
-    "tags": "",
-    "observaciones": ""
-  },
-  {
-    "key": "useFrontFilterWidget",
     "value": "1",
     "tags": "",
     "observaciones": ""
   },
   {
+    "key": "htmlTitle",
+    "value": "Elección Rector USAC - Red Ciudadana",
+    "tags": "",
+    "observaciones": ""
+  },
+  {
+    "key": "helloBarUrl",
+    "value": "https://my.hellobar.com/d0dc0bca5bdcccb380c59a7738cbf3b431f636c1.js",
+    "tags": "",
+    "observaciones": ""
+  },
+  {
+    "key": "useFrontFilterWidget",
+    "value": "",
+    "tags": "",
+    "observaciones": ""
+  },
+  {
     "key": "procesoEleccionTitulo",
-    "value": "Proceso de elección de Fiscal General del MP",
+    "value": "Proceso de elección de Rector USAC",
     "tags": "",
     "observaciones": ""
   },

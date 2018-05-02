@@ -49,7 +49,7 @@ module.exports = function(environment) {
     ENV.contentSecurityPolicy = contentSecurityPolicy;
     ENV.contentSecurityPolicy['script-src'] = "'self' 'unsafe-eval' db.devservir6:* 172.20.10.9:*";
 
-    ENV.APP.staticFilesUrl = 'http://db.devservir6:6360/static-files/';
+    ENV.APP.staticFilesUrl = 'http://db.devservir6:6361/static-files/';
     // ENV.APP.staticFilesUrl = null;
   }
 
